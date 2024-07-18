@@ -114,10 +114,6 @@ for idx, each in enumerate(prompt):
 For more inference scrpts of other models, please visit the model card of the huggingface page.
 
 
-## Implementation of Pretrain  
-xTrimoPGLM pretraining is based on the [Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) Framework
-. Details Please refer to [pretrain](./pretrain)
-
 ## LICENSE
 
 The code in this repository is open source under the [Apache-2.0 license](./LICENSE).
