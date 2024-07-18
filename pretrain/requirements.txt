@@ -1,0 +1,12 @@
+datasets
+nltk
+numpy
+parameterized
+pybind11
+regex
+six
+tensorboard
+transformers
+# versions from HF transformers
+black==21.4b0
+isort>=5.5.4
